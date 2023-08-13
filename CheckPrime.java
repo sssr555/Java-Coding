@@ -30,7 +30,7 @@ public class CheckPrime {
         else{
             System.out.println("The given number is not Prime Number");
         }
-        
+         System.out.println("Adding message for testing");
          }
     }
     
